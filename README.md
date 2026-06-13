@@ -15,5 +15,5 @@ A lightweight Machine Learning project that classifies emails as **Spam** or **H
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/spam-email-classification.git](https://github.com/yourusername/spam-email-classification.git)
+   git clone [https://github.com/jayavardhan0211/spam-email-classification.git](https://github.com/jayavardhan0211/spam-email-classification.git)
    cd spam-email-classification
